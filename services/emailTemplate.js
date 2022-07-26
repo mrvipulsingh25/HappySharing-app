@@ -148,7 +148,7 @@ module.exports = ({emailFrom, downloadLink, size, expires}) => {
                             <tr>
                             <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
                                 <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">HappySharing team,NIT Warangal</span>
-                                <br> Share your file here -->? <a href="http://localhost:3000" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;"><b>happySharing</b></a>.
+                                <br> Share your file here <b>?</b> <a href="https://happysharing--fe.herokuapp.com/" style="text-decoration: underline; color: #999999; font-size: 12px; text-align: center;"><b>Share Here</b></a>.
                             </td>
                             </tr>
                             <tr>
